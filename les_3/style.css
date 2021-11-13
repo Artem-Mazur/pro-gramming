@@ -1,0 +1,36 @@
+table {
+  border: 2px solid darkorchid;
+}
+th,
+td {
+  border: 2px solid darkorchid;
+}
+td {
+  color: darkorchid;
+}
+th {
+  color: darkorchid;
+}
+td,
+table {
+  background: linear-gradient(
+    90deg,
+    rgba(31, 0, 36, 1) 0%,
+    rgba(127, 17, 111, 1) 20%,
+    rgba(17, 31, 127, 1) 45%,
+    rgba(9, 14, 121, 1) 64%,
+    rgba(255, 0, 191, 1) 88%
+  );
+}
+td:hover {
+  border: 2px solid yellowgreen;
+  background: linear-gradient(
+    90deg,
+    rgba(35, 36, 0, 1) 0%,
+    rgba(116, 127, 17, 1) 20%,
+    rgba(21, 17, 127, 1) 41%,
+    rgba(124, 13, 13, 1) 53%,
+    rgba(121, 9, 104, 1) 64%,
+    rgba(114, 255, 0, 1) 88%
+  );
+}

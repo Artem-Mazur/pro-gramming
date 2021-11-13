@@ -1,0 +1,43 @@
+main {
+  height: 2000px;
+  width: 1500px;
+  display: flex;
+}
+header {
+  height: 200px;
+  width: 1500px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.countainer {
+  display: flex;
+  width: 100%;
+  max-width: 1500px;
+}
+.countainer {
+  max-width: 1500px;
+  width: 100%;
+}
+
+.aside-left {
+  display: flex;
+  background-color: yellow;
+  width: 300px;
+  height: 700px;
+}
+img {
+  height: 400px;
+  width: 600px;
+}
+.right {
+  width: 1200px;
+  height: 35%;
+  background-color: rgb(21, 37, 6);
+  float: right;
+  display: flex;
+  justify-content: center;
+}

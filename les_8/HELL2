@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header class="header">
+        <div class="countainer">
+            <div class="header-inner">
+                <h1>Header</h1>
+            </div>
+
+
+        </div>
+
+    </header> 
+<main class="main">
+    <div class="countainer"> 
+        <div class="main-inner"> 
+            <div class="right">
+                <img src="./img" alt="flex">
+              
+
+
+
+
+
+            </div>
+            
+            <div class="aside-left">
+                
+            <ul class="aside-left-menu">
+                <li>
+                    <h1>Item 1</h1>
+                </li>
+                <li>
+                    <h1>Item 2</h1>
+                </li>
+                <li>
+                    <h1>Item 3</h1>
+                </li>
+                <li>
+                    <h1>Item 4</h1>
+                </li> </ul> </div>
+
+
+        
+        
+
+
+
+        
+
+
+
+        
+    </div>
+    </div>
+        
+    
+    
+   </main>
+
+
+
+</body>
+</html>
