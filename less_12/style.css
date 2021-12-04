@@ -1,0 +1,105 @@
+body {
+  background-color: aliceblue;
+}
+.main {
+  height: 10000px;
+  width: 10000px;
+  display: flex;
+}
+.white {
+  background-color: white;
+  height: 750px;
+  width: 500px;
+  padding-top: 50px;
+  display: block;
+}
+.circle1 {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circle2 {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circle3 {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circles {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+.contact {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.paragraph {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.input {
+  width: 100%;
+  height: 300px;
+  display: block;
+  flex-direction: column;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+button {
+  border-radius: 50px;
+  background-color: aliceblue;
+}
+.blue {
+  height: 800px;
+  width: 500px;
+  background-color: lightblue;
+  justify-content: center;
+  display: block;
+  flex-direction: column;
+  padding-left: 200px;
+  padding-top: 200px;
+}
+.button1 {
+  height: 100px;
+  width: 200px;
+}
+
+.circle1:hover {
+  background-color: azure;
+  box-shadow: black 2px solid;
+}
+.circle2:hover {
+  background-color: azure;
+  box-shadow: black 2px solid;
+}
+.circle3:hover {
+  background-color: azure;
+  text-shadow: black 2px solid;
+}
+textarea:hover {
+  background-color: darkslateblue;
+}
+button:hover {
+  background-color: peru;
+  border: 2px dotted white;
+}
