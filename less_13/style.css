@@ -1,0 +1,68 @@
+body {
+  background-color: grey;
+}
+main {
+  height: 100%;
+  width: 100%;
+}
+.visited:visited {
+  background-color: red;
+}
+.links {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+}
+.h5:hover {
+  font-size: x-large;
+}
+.h5 {
+  color: blue;
+}
+.h6:active {
+  background-color: yellow;
+}
+.h6 {
+  color: blue;
+}
+
+.h7 input:focus {
+  color: red;
+}
+.first:first-child {
+  font-style: italic;
+}
+.last:last-child {
+  font-style: italic;
+}
+p:first-of-type {
+  color: yellow;
+}
+span:only-of-type {
+  color: cyan;
+}
+p:last-of-type {
+  color: red;
+}
+.p1 {
+  color: blue;
+}
+.p2 {
+  font-size: larger;
+}
+.p4 {
+  color: blue;
+}
+.p6 {
+  color: black;
+}
+.p22 {
+  color: red;
+}
+.p44 {
+  color: red;
+}
+.nobobold:only-of-type {
+  color: black;
+}
