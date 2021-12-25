@@ -1,0 +1,38 @@
+header{display: flex; justify-content: center;}
+.header-inner{display: flex;justify-content: center;}
+.card1{width: 200px; height: 200px; border: 2px dotted black; border-radius: 15px; border-style: groove; }
+.view{background-color: aquamarine; color: white; height: 50px; width: 100px;}
+h4{color: pink;}
+.sprint-1{display: flex; justify-content: space-between; padding: 20px; align-items: center;}
+.card1{background-color: aquamarine;}
+body{background-color: grey;}
+
+  input{height: 0;
+}
+
+
+input::before{
+content: "";
+
+background: url(./Darth-Vader-icon_34501.png);
+width: 50px;
+height: 50px;
+top: 40px;
+left: 60px;
+background-color: rgb(28, 55, 211);
+position: fixed;
+z-index: 100;
+background-position: center;
+background-repeat: no-repeat;
+background-size: 80%;
+
+
+
+
+
+    
+
+
+  }
+  
+  
